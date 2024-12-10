@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/cember.png</file>
+        <file>images/dikCizgi.png</file>
+        <file>images/sag.png</file>
+        <file>images/sol.png</file>
+        <file>images/yatayCizgi.png</file>
+    </qresource>
+</RCC>
